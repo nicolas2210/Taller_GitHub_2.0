@@ -3,4 +3,4 @@ b = 93
 c = a + b
 d = a * b
 print(c ","d)
-i = c - d
+i = d - c
